@@ -1,0 +1,22 @@
+===================================================
+Nom : Samuel Fafin
+Dépôt : https://github.com/zackdu35/2016-2017.git
+===================================================
+
+De manière générale, le rapport est très dur à lire du au manque d'explication sur
+chacune des étapes de cette réalisation.
+
+La difficulté de la compréhension est dû à l'utilisation du fichier "pandas.ipynb" qui
+était une exercice fournit durant la formation.
+
+Il y a eu différentes étapes de réalisées sur les données :
+	- Chargement
+	- Nettoyage
+	- Analyse
+	- Utilisation de modèles prédictifs
+
+J'ai du mal à dégager une analyse plus complète en ne comprenant pas le but de l'analyse
+effectuée.
+
+De manière technique, Zac a réussi à utiliser des visualisations ainsi que l'application de
+modèles de prédictions.
