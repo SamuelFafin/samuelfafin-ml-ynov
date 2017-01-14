@@ -1,0 +1,14 @@
+===================================================
+Nom : Annette Hellebois
+Dépôt : https://github.com/AnnetteHellebois/2016-2017.git
+===================================================
+
+De manière générale, il manque du texte complémentaire pour comprendre la logique du 
+développement. De mon point de vue il manque :
+	- Une introduction avec la problématique et la question à répondre
+	- Une explication à chaque étape du développement pour comprendre le raisonnement
+	  avec une hypothèse avec son développement et une conclusion
+	- Des titres et sous titres pour partitionner le rapport
+
+Après je pense que la méthodologie a été comprise mais avec maladresse du faite des
+nouveaux outils "Notebook" et "Python".

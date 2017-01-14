@@ -1,0 +1,18 @@
+===================================================
+Nom : Romain Guilbaud
+Dépôt : https://github.com/RomainGuilbaud/project-Romain
+===================================================
+
+De manière générale, les différentes étapes sont suivies d'une explication textuelle qui
+est pertinante pour la compréhension de son développment.
+
+L'idée de transformer certaines données voir dans créer est intéressante.
+
+Il a réussi à mettre en application les visualisatons qui apportent un plus à la
+compréhension.
+
+Dans la partie où il a utilisé les régressions, je pense que ce n'était pas le bon outil
+pour répondre aux hypothèses. Mais que un "Stacked Bar" aurait été plus pertinent.
+
+Dans tout les cas, cela reste un exercice très intéressant à lire et qui montre que Romain
+a compris le sujet.
