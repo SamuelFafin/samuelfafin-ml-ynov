@@ -1,0 +1,6 @@
+Je propose de mettre en place un système de classification de description afin de 
+reconnaitre de manière supervisé les types de descriptions (Cinéma, Culturel, ...)
+
+Pour ce projet je vais essayer de créer par moi même un ficher CSV avec des informations.
+
+La forme du rendu de projet sera un Notebook avec toutes les étapes.
