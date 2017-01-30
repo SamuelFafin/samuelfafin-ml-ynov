@@ -1,13 +1,14 @@
 # Lundi 30 Janvier
 - Création des données
 - Chargement des données
-- Clean des données
 
 # Vendredi 10 Février
-- Comprendre les méthodologies Machine Learning NLP
+- Clean des données
+- Parcourir les données afin de les comprendres
 
 # Lundi 20 Février
-- Commencer l'analyse des données
+- Chercher des algorithmes de ML à appliquer dans ce cas
+- Implémenter des algorithmes de ML côté Training
 
 # Mercredi 1 Mars
-- Finir l'analyse des données
+- Utiliser les données de tests afin de vérifier la véracité du ML
