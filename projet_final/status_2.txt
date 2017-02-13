@@ -1,0 +1,34 @@
+Réaliser :
+- Clean des données
+	- Lien HTTP
+	- Lowercase
+	- @[\w]
+	- Strip pour enlevez les espaces en trop
+
+- Preprocessing :
+	- Tokenize
+	- StopWord
+	- Lemming
+
+A Faire :
+- Preprocessing :
+	- Featured les mots dans les phrases
+
+- Analyse :
+	- Tester l'algorithme de NaivesBayes
+
+- Présentation du NoteBook
+	- Réaliser une fonction de Clean ainsiqu'une fonction de Preprocessing
+	  afin d'avoir un code plus présentable.
+
+Point de blocage :
+	- J'ai été étonné de voir que pour la librairie Scikit-learn il fallait transformer
+	  mes tokens en chiffre. Du coups je reste sur la librairie NLTK pour poursuivre les
+	  traitements.
+	- Pour le moment je suis bloqué sur l'étape de l'utilisation de la fonction de ML
+	  NaivesBayes. Je ne comprends pas trop son fonctionnement mise à part que je dois
+	  déjà commencer par Featured mes phrases. Technique de Bag of Word.
+
+Explication  :
+	- Je n'ai pas rajouter ma source d'apprentissage dans le Git parce qu'il est trop
+	  gros + 100 Mo. Je mettrai un lien vers un OneDrive dans mon prochain commit
