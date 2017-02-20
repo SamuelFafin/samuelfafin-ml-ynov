@@ -4,11 +4,11 @@
 
 # Vendredi 10 Février
 - Clean des données
-- Parcourir les données afin de les comprendres
+- Parcourir les données afin de les comprendre
 
 # Lundi 20 Février
-- Chercher des algorithmes de ML à appliquer dans ce cas
-- Implémenter des algorithmes de ML côté Training
+- Mettre les différentes étapes du clean des données dans des fonctions
 
 # Mercredi 1 Mars
-- Utiliser les données de tests afin de vérifier la véracité du ML
+- Bag of Word
+- Appliquer Naives Bayes pour catégoriser les données

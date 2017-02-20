@@ -1,0 +1,7 @@
+Réaliser :
+	- Mettre les fonctions de clean dans une fonction
+	- Mettre les fonctions de preprocessing dans des fonctions
+
+A faire :
+	- Bag of Word
+	- Naives Bayes
