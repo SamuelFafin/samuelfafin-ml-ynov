@@ -1,0 +1,8 @@
+Réaliser :
+	- Mettre en place l'utilisation de l'algorithme de ML Naive Bayes.
+
+Point de blocage :
+	- Il m'est impossible de tester l'ensemble du dataset qui contient 1 600 000 de tweets.
+	Mon ordinateur ne tient pas la charge (pas assez de RAM). 
+	- Toutefois j'ai un retour assez encouragent 
+	en obtenant en moyenne 41% de bonnes réponses sur le dataset de test.
